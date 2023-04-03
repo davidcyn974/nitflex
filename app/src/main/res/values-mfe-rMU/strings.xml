@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ayo kozin!</string>
+    <string name="welcome_text">Prout !</string>
+    <string name="start_button_text">Mes cousins sont mauriciens mais j ai eu la flemme de leur demander la trad</string>
+    <string name="under_welcome_text">Press PRout video !</string>
+    <string name="menu_apropos">Menu 11</string>
+    <string name="logo_description">Me</string>
+    <string name="menu_preferences">Menu 22</string>
+</resources>

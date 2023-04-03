@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Wassup</string>
+    <string name="welcome_text">Welcome to Nitflex !</string>
+    <string name="start_button_text">START!</string>
+    <string name="under_welcome_text">Press Start for our unique video !</string>
+    <string name="logo_description">Coucou </string>
+    <string name="menu_preferences">There Hiiii</string>
+    <string name="menu_apropos">" life is beautiful"</string>
+    <string name="txtbutton" translatable="false">Coucou ceci est un message </string>
+</resources>
